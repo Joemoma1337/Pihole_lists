@@ -76,6 +76,12 @@
 ||amazon-adsystem.me^
 ||amazon-adsystem.mobi^
 ||amazon-adsystem.net^
+||an.facebook.com^
+||an.facebook.io^
+||an.facebook.it^
+||an.facebook.me^
+||an.facebook.mobi^
+||an.facebook.net^
 ||appier.com^
 ||appier.io^
 ||appier.it^
