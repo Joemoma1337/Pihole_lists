@@ -298,6 +298,12 @@
 ||pubnative.me^
 ||pubnative.mobi^
 ||pubnative.net^
+||revenuads.com^
+||revenuads.io^
+||revenuads.it^
+||revenuads.me^
+||revenuads.mobi^
+||revenuads.net^
 ||rezync.com^
 ||rezync.io^
 ||rezync.it^
