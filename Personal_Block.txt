@@ -286,6 +286,12 @@
 ||moatads.me^
 ||moatads.mobi^
 ||moatads.net^
+||mobilefuse.com^
+||mobilefuse.io^
+||mobilefuse.it^
+||mobilefuse.me^
+||mobilefuse.mobi^
+||mobilefuse.net^
 ||pangle.com^
 ||pangle.io^
 ||pangle.it^
